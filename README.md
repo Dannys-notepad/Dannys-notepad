@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm an aspiring software developer passionate abou
 
 ### CLI Tool
 - **Repository**: [git-sauce](https://github.com/Dannys-notepad/git-sauce)
-- **Description**: A CLI tool, for simplifying git processes, and limit commands you have to type and improving your overall workflow.
+- **Description**: A CLI tool powered by nodejs for simplifying / limiting amount of git commands you get to type in your terminal while working with git, either committing changes, pulling refs etc. And improving your overall workflow.
 - **Tech Stack**: Node.js, CURL
 - **Getting Started**: Check the [git-sauce documentation](https://github.com/Dannys-notepad/git-sauce#readme) for installation and usage instructions.
 
