@@ -1,21 +1,21 @@
 # Hi there, I'm Daniel 👋
 
-Welcome to my GitHub profile! I'm an aspiring software developer passionate about building RESTful APIs and command-line interface (CLI) tools. Here you'll find a collection of my projects and contributions in these areas.
+Welcome to my GitHub profile! I'm an aspiring software developer passionate about building Backend Service / RESTful APIs and command-line interface (CLI) tools. Here you'll find a collection of my projects and contributions in these areas.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on developing a **Backend web application** and an **npm package**, I'm also learning **Backend Web Development**,  **API optimization**, and **advanced CLI features**.
-- 👯 I’m looking to collaborate on projects related to **web services**, and **CLI development**, I'm also 🤔 I’m looking for help with **scaling RESTful services** and **improving CLI user experience**.
+- 🔭 I’m currently developing an **API** and an **npm package**, I'm also learning **Backend Web Development**,  **API optimization**, and **Typescript and Bash**.
+- 👯 I’m looking to collaborate on projects related to **web services**, and **CLI development**, I'm also looking for help with **scaling RESTful services** and **improving CLI user experience**.
 - 💬 Ask me about **JavaScript**, **Node.js**, **RESTful APIs**, and **CLI tools**.
-- 📫 How to reach me: [etimdnl@gmail.com](mailto:your-email@example.com)
+- 📫 How to reach me: [etimdnl@gmail.com](mailto:etimdnl@gmail.com)
 - 😄 Pronouns: He/Him
 
 ## 🔧 Technologies & Tools
 
 - **Languages**: JavaScript, TypeScript(learning in progress), Java
 - **Frameworks**: Node.js, Express
-- **Databases**: MySql, Firebase(learning in progress)
-- **Tools**: Git, API Client, Neovim
+- **Databases**: MySql
+- **Tools**: Git, API Client, Acode, Neovim
 
 ## 📚 Featured Project
 
