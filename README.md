@@ -1,29 +1,43 @@
-# Hi there, I'm Daniel 👋
+# **Hi, I'm Etim Daniel Udeme**  
+#### **Backend/API Developer**  
+🔧 *Crafting Scalable Solutions & Robust Integrations*  
 
-Welcome to my GitHub profile! I'm an aspiring software developer passionate about building Backend Service / RESTful APIs and command-line interface (CLI) tools. Here you'll find a collection of my projects and contributions in these areas.
+Passionate about building clean, efficient systems that power seamless user experiences. Specializing in RESTful API development, security-first design, and tools that empower developers.  
 
-## 🚀 About Me
+---
 
-- 🔭 I’m currently developing an **API** and an **npm package**, I'm also learning **Backend Web Development**,  **API optimization**, and **Typescript and Bash**.
-- 👯 I’m looking to collaborate on projects related to **web services**, and **CLI development**, I'm also looking for help with **scaling RESTful services** and **improving CLI user experience**.
-- 💬 Ask me about **JavaScript**, **Node.js**, **RESTful APIs**, and **CLI tools**.
-- 📫 How to reach me: [etimdnl@gmail.com](mailto:etimdnl@gmail.com)
-- 😄 Pronouns: He/Him
+### 🛠️ **Core Expertise**  
+- **Languages:** JavaScript (Node.js), PHP  
+- **Frameworks:** Express.js  
+- **Databases:** MySQL  
+- **APIs:** REST (OpenAPI/Swagger integration)  
+- **Security:** OAuth2, JWT, Rate Limiting, Encryption  
 
-## 🔧 Technologies & Tools
+### 🚀 **Currently Leveling Up**  
+- **Databases:** Redis, PostgreSQL  
+- **Languages:** TypeScript  
 
-- **Languages**: JavaScript, TypeScript(learning in progress), Java
-- **Frameworks**: Node.js, Express
-- **Databases**: MySql
-- **Tools**: Git, API Client, Acode, Neovim
+### 🔌 **Beyond APIs**  
+- I build **CLI tools** and **npm packages** to automate workflows and reduce developer friction.  
+- Open-source advocate – share reusable solutions to streamline coding challenges.  
 
-## 📚 Featured Project
+---
 
-### CLI Tool
-- **Repository**: [git-sauce](https://github.com/Dannys-notepad/git-sauce)
-- **Description**: A CLI tool powered by nodejs for simplifying / limiting amount of git commands you get to type in your terminal while working with git, either committing changes, pulling refs etc. And improving your overall workflow.
-- **Tech Stack**: Node.js, CURL
-- **Getting Started**: Check the [git-sauce documentation](https://github.com/Dannys-notepad/git-sauce#readme) for installation and usage instructions.
+### 🔥 **Hot Projects**  
+- **[git-sauce](https://github.com/Dannys-notepad/git-sauce)**  
+  *A zero git command CLI tool, to simplify github developer workflow.*
+  
+  ![Tech](https://img.shields.io/badge/-JavaScript-F7DF1E) ![Tech](https://img.shields.io/badge/-Node.js-339933)  
+  - Streamlined setup for working with git(saves ~5minutes/config per project).  
+
+*Explore more on my [GitHub](https://github.com/Dannys-notepad)!*  
+
+---
+
+### 📍 **Let’s Collaborate**  
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dannys-notepad)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/etimudemee)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Dannysnotepad)
 
 ## 📈 GitHub Stats
 
