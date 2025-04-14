@@ -34,14 +34,19 @@ Passionate about building clean, efficient systems that power seamless user expe
 
 ---
 
-### 📍 **Let’s Collaborate**  
-[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dannys-notepad)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/etimudemee)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Dannysnotepad)
+## Most Used Languages
+![Dannys-notepad Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannys-notepad&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## 📈 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dannys-notepad&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+
+
+### 📍 **Let’s Collaborate**  
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dannys-notepad)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/etimudemee)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Dannysnotepad)
 
 ---
 
