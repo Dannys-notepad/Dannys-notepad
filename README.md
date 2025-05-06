@@ -7,7 +7,7 @@ Passionate about building clean, efficient systems that power seamless user expe
 ---
 
 ### 🛠️ **Core Expertise**  
-- **Languages:** JavaScript (Node.js), PHP  
+- **Languages:** JavaScript (Node.js)  
 - **Frameworks:** Express.js  
 - **Databases:** MySQL  
 - **APIs:** REST (OpenAPI/Swagger integration)  
