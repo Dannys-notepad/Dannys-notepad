@@ -13,24 +13,11 @@ Passionate about building clean, efficient systems that power seamless user expe
 - **APIs:** REST (OpenAPI/Swagger integration)  
 - **Security:** OAuth2, JWT, Rate Limiting, Encryption  
 
-### 🚀 **Currently Leveling Up**  
-- **Databases:** Redis, PostgreSQL  
-- **Languages:** TypeScript  
+
 
 ### 🔌 **Beyond APIs**  
 - I build **CLI tools** and **npm packages** to automate workflows and reduce developer friction.  
 - Open-source advocate – share reusable solutions to streamline coding challenges.  
-
----
-
-### 🔥 **Hot Projects**  
-- **[git-sauce](https://github.com/Dannys-notepad/git-sauce)**  
-  *A zero git command CLI tool, to simplify github developer workflow.*
-  
-  ![Tech](https://img.shields.io/badge/-JavaScript-F7DF1E) ![Tech](https://img.shields.io/badge/-Node.js-339933)  
-  - Streamlined setup for working with git(saves ~5minutes/config per project).  
-
-*Explore more on my [GitHub](https://github.com/Dannys-notepad)!*  
 
 ---
 
