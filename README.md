@@ -51,7 +51,7 @@ Passionate about building clean, efficient systems that power seamless user expe
 
 ### 📍 **Let’s Collaborate**  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/etimudemee)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Dannysnotepad)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/udeme_dev)
 
 ---
 
