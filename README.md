@@ -2,7 +2,7 @@
 #### **Backend/API Developer**  
 🔧 *Building scalable systems*  
 
-Passionate about building clean, efficient systems that power seamless user experiences. Specializing in RESTful API development, security-first design, and tools that empower developers, I'm also a 200lv Industrial Chemistry Student.  
+Passionate about building clean, efficient systems that power seamless user experiences. Specializing in RESTful API development, security-first design, and tools that empower developers, I'm also a undergraduate Industrial Chemistry Student (200lv).  
 
 ---
 
@@ -48,6 +48,13 @@ Passionate about building clean, efficient systems that power seamless user expe
 🌱 Expanding my horizon through continuously learning.
 
 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+
+### **Git stats**
+![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Dannys-notepad&show_icons=true&locale=en&layout=compact&theme=light)
+
+![Stats](https://github-stats-extended.vercel.app/api?username=Dannys-notepad&show_icons=true&theme=light)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dannys-notepad&theme=light)
 
 ### 📍 **Let’s Collaborate**  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/etimudemee)
